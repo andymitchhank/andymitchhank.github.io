@@ -1,7 +1,8 @@
 {
+	"version": "https://jsonfeed.org/version/1",
 	"title": "Andrew Henry",
-	"home_page_url": "http://andymitchhank.micro.blog/",
-	"feed_url": "http://andymitchhank.micro.blog/feed.json",
+	"home_page_url": "http://andymitchhank.com/",
+	"feed_url": "http://andymitchhank.com/feed.json",
 	"items": [
 		
 	]
