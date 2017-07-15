@@ -3,7 +3,7 @@ layout: default
 css_class: home
 ---
 <section class="posts h-feed">
-  {% for p in site.posts %}
+  {% for p in paginator.posts %}
     <article class="post h-entry">
       <div class="e-content">{{ p.content }}</div>
       <footer class="post__footer">
@@ -12,3 +12,7 @@ css_class: home
     </article>
   {% endfor %}
 </section>
+
+{% if paginator.previous_page or paginator.next_page %}
+    {% include pagination.html %}
+{% endif %}
