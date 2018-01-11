@@ -5,5 +5,13 @@
 	"feed_url": "https://andymitchhank.com/feed.json",
 	"items": [
 		
+		{
+			"id": "http://andymitchhank.micro.blog/2018/01/11/the-beginnings-of.html",
+	      	
+			"content_html": "<p><a href=\"https://github.com/andymitchhank/microblogcli\">The beginnings of a Micro.blog CLI</a></p>\n",
+			"date_published": "2018-01-11T13:00:00-06:00",
+			"url": "https://andymitchhank.com/2018/01/11/the-beginnings-of.html"
+		}
+		
 	]
 }
