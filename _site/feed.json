@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://andymitchhank.micro.blog/2018/04/19/ive-listened-to.html",
+	      	
+			"content_html": "<p>I’ve listened to a solid 50 episodes of <a href=\"https://talkpython.fm\">Talk Python</a> in the past few weeks. Can’t recommend it enough for anyone interested in python or dev in general 🎙</p>\n",
+			"date_published": "2018-04-19T17:15:27-05:00",
+			"url": "https://andymitchhank.com/2018/04/19/ive-listened-to.html"
+		},
+		
+		{
 			"id": "http://andymitchhank.micro.blog/2018/01/11/the-beginnings-of.html",
 	      	
 			"content_html": "<p><a href=\"https://github.com/andymitchhank/microblogcli\">The beginnings of a Micro.blog CLI</a></p>\n",
-			"date_published": "2018-01-11T13:00:00-06:00",
+			"date_published": "2018-01-11T13:00:34-06:00",
 			"url": "https://andymitchhank.com/2018/01/11/the-beginnings-of.html"
 		}
 		
