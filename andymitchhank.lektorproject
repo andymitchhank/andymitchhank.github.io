@@ -1,6 +1,0 @@
-[project]
-name = andymitchhank
-
-[servers.ghpages]
-target = ghpages+https://andymitchhank/andymitchhank.github.io
-
