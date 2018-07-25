@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Andrew Henry</title>
+    <description>Follow &lt;a href=&quot;https://micro.blog/andymitchhank&quot;&gt;@andymitchhank on Micro.blog&lt;/a&gt;.</description>
+    <link>https://andymitchhank.com/</link>
+    <pubDate>Wed, 25 Jul 2018 08:53:01 -0500</pubDate>
+    <lastBuildDate>Wed, 25 Jul 2018 08:53:01 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://gist.github.com/andymitchhank/ff6f501eecf142e6b611e17e253d346b&quot;&gt;And the gist version&lt;/a&gt;
+&lt;script src=&quot;https://gist.github.com/andymitchhank/ff6f501eecf142e6b611e17e253d346b.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Jun 2018 11:47:53 -0500</pubDate>
+        <link>https://andymitchhank.com/2018/06/21/and-the-gist.html</link>
+        <guid isPermaLink="true">http://andymitchhank.micro.blog/2018/06/21/and-the-gist.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://repl.it/@andymitchhank/wielding-threaded-async-magic&quot;&gt;Playing with async/await&lt;/a&gt; based on &lt;a href=&quot;https://tryexceptpass.org/article/threaded-asynchronous-magic-and-how-to-wield-it/&quot;&gt;this article&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Jun 2018 11:21:12 -0500</pubDate>
+        <link>https://andymitchhank.com/2018/06/21/playing-with-asyncawait.html</link>
+        <guid isPermaLink="true">http://andymitchhank.micro.blog/2018/06/21/playing-with-asyncawait.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://gist.github.com/andymitchhank/7677786e1d49eda7f6b70002e74915f7&quot;&gt;Coerce a dictionary to a NamedTuple&lt;/a&gt;
+&lt;script src=&quot;https://gist.github.com/andymitchhank/7677786e1d49eda7f6b70002e74915f7.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Jun 2018 16:19:48 -0500</pubDate>
+        <link>https://andymitchhank.com/2018/06/05/coerce-a-dictionary.html</link>
+        <guid isPermaLink="true">http://andymitchhank.micro.blog/2018/06/05/coerce-a-dictionary.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Started and finished &lt;a href=&quot;https://dbader.org/products/python-tricks-book/&quot;&gt;Python Tricks&lt;/a&gt; yesterday 📚&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Apr 2018 17:18:51 -0500</pubDate>
+        <link>https://andymitchhank.com/2018/04/19/started-and-finished.html</link>
+        <guid isPermaLink="true">http://andymitchhank.micro.blog/2018/04/19/started-and-finished.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I’ve listened to a solid 50 episodes of &lt;a href=&quot;https://talkpython.fm&quot;&gt;Talk Python&lt;/a&gt; in the past few weeks. Can’t recommend it enough for anyone interested in python or dev in general 🎙&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Apr 2018 17:15:27 -0500</pubDate>
+        <link>https://andymitchhank.com/2018/04/19/ive-listened-to.html</link>
+        <guid isPermaLink="true">http://andymitchhank.micro.blog/2018/04/19/ive-listened-to.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/andymitchhank/microblogcli&quot;&gt;The beginnings of a Micro.blog CLI&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jan 2018 13:00:34 -0600</pubDate>
+        <link>https://andymitchhank.com/2018/01/11/the-beginnings-of.html</link>
+        <guid isPermaLink="true">http://andymitchhank.micro.blog/2018/01/11/the-beginnings-of.html</guid>
+      </item>
+    
+  </channel>
+</rss>
