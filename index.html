@@ -1,32 +1,22 @@
-<!doctype html>
-<meta charset="utf-8">
-<link rel="stylesheet" href="./static/style.css">
-<title>Welcome to andymitchhank! — andymitchhank</title>
-<body>
-  <header>
-    <h1>andymitchhank</h1>
-    <nav>
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="./">Welcome</a></li>
-        
-          <li><a href="./blog/">Blog</a></li>
-        
-          <li><a href="./projects/">Projects</a></li>
-        
-          <li><a href="./about/">About</a></li>
-        
-      </ul>
-    </nav>
-  </header>
-  <div class="page">
-    
-  <h2>Welcome to andymitchhank!</h2>
-  <p>This is a basic demo website that shows how to use Lektor for a basic
-website with some pages and a blog.</p>
+---
+layout: default
+css_class: home
+regenerate: true
+---
+<section class="posts h-feed">
+  {% for p in paginator.posts %}
+    <article class="post h-entry">
+	  {% if p.microblog == false %}
+		<h1><a href="{{ p.url }}">{{ p.title }}</a></h1>
+	  {% endif %}
+      <div class="e-content">{{ p.content }}</div>
+      <footer class="post__footer">
+        <small><time class="dt-published" datetime="{{ p.date | date_to_xmlschema }}"><a href="{{ p.url }}" title="Permalink to Microblog post" class="u-url">{{ p.date | date: "%a, %b %d, %Y at %I:%M%P" }}</time></a></small>
+      </footer>
+    </article>
+  {% endfor %}
+</section>
 
-
-  </div>
-  <footer>
-    &copy; Copyright 2018 by Andrew Henry.
-  </footer>
-</body>
+{% if paginator.previous_page or paginator.next_page %}
+    {% include pagination.html %}
+{% endif %}
