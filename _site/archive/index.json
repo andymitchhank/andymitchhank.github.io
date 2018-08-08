@@ -1,0 +1,67 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Andrew Henry",
+	"home_page_url": "https://andymitchhank.com/",
+	"feed_url": "https://andymitchhank.com/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://andymitchhank.micro.blog/2018/08/08/configure-indiepaper-with.html",
+	      	
+			"title": "Configure Indiepaper with IndieAuth",
+			
+			"content_text": "  \n",
+			"date_published": "2018-08-07T22:31:36-05:00",
+			"url": "https://andymitchhank.com/2018/08/07/configure-indiepaper-with.html"
+		},
+		
+		{
+			"id": "http://andymitchhank.micro.blog/2018/06/21/and-the-gist.html",
+	      	
+			"content_text": "And the gist version\n",
+			"date_published": "2018-06-21T11:47:53-05:00",
+			"url": "https://andymitchhank.com/2018/06/21/and-the-gist.html"
+		},
+		
+		{
+			"id": "http://andymitchhank.micro.blog/2018/06/21/playing-with-asyncawait.html",
+	      	
+			"content_text": "Playing with async/await based on this article\n",
+			"date_published": "2018-06-21T11:21:12-05:00",
+			"url": "https://andymitchhank.com/2018/06/21/playing-with-asyncawait.html"
+		},
+		
+		{
+			"id": "http://andymitchhank.micro.blog/2018/06/05/coerce-a-dictionary.html",
+	      	
+			"content_text": "Coerce a dictionary to a NamedTuple\n\n",
+			"date_published": "2018-06-05T16:19:48-05:00",
+			"url": "https://andymitchhank.com/2018/06/05/coerce-a-dictionary.html"
+		},
+		
+		{
+			"id": "http://andymitchhank.micro.blog/2018/04/19/started-and-finished.html",
+	      	
+			"content_text": "Started and finished Python Tricks yesterday 📚\n",
+			"date_published": "2018-04-19T17:18:51-05:00",
+			"url": "https://andymitchhank.com/2018/04/19/started-and-finished.html"
+		},
+		
+		{
+			"id": "http://andymitchhank.micro.blog/2018/04/19/ive-listened-to.html",
+	      	
+			"content_text": "I’ve listened to a solid 50 episodes of Talk Python...",
+			"date_published": "2018-04-19T17:15:27-05:00",
+			"url": "https://andymitchhank.com/2018/04/19/ive-listened-to.html"
+		},
+		
+		{
+			"id": "http://andymitchhank.micro.blog/2018/01/11/the-beginnings-of.html",
+	      	
+			"content_text": "The beginnings of a Micro.blog CLI\n",
+			"date_published": "2018-01-11T13:00:34-06:00",
+			"url": "https://andymitchhank.com/2018/01/11/the-beginnings-of.html"
+		}
+		
+	]
+}
