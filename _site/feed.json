@@ -6,9 +6,19 @@
 	"items": [
 		
 		{
+			"id": "http://andymitchhank.micro.blog/2018/08/08/configure-indiepaper-with.html",
+	      	
+			"title": "Configure Indiepaper with IndieAuth",
+			
+			"content_html": "<section id=\"content\" class=\"main\"> <img width=\"100\" src=\"https://www.indiepaper.io/images/indieauth-logo-color.png\" alt=\"IndieAuth Logo\" /> </section>\n",
+			"date_published": "2018-08-07T22:31:36-05:00",
+			"url": "https://andymitchhank.com/2018/08/07/configure-indiepaper-with.html"
+		},
+		
+		{
 			"id": "http://andymitchhank.micro.blog/2018/06/21/and-the-gist.html",
 	      	
-			"content_html": "<p><a href=\"https://gist.github.com/andymitchhank/ff6f501eecf142e6b611e17e253d346b\">And the gist version</a>\n<script src=\"https://gist.github.com/andymitchhank/ff6f501eecf142e6b611e17e253d346b.js\"></script></p>\n",
+			"content_html": "<p><a href=\"https://gist.github.com/andymitchhank/ff6f501eecf142e6b611e17e253d346b\">And the gist version</a></p>\n",
 			"date_published": "2018-06-21T11:47:53-05:00",
 			"url": "https://andymitchhank.com/2018/06/21/and-the-gist.html"
 		},
