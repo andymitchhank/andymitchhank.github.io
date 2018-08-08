@@ -32,7 +32,9 @@ paginate_path: "/page/:num/"
 timezone: "US/Indiana-Starke"
 site_id: "1325"
 gems: ["jekyll-paginate"]
+itunes_description: "I like bagels. Probably too much. I'm also a husband, dad, and developer. "
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "Andrew Henry"
+itunes_email: ""
 podcast: false
