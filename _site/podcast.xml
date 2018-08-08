@@ -2,17 +2,23 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Andrew Henry</title>
-    <description>Follow &lt;a href=&quot;https://micro.blog/andymitchhank&quot;&gt;@andymitchhank on Micro.blog&lt;/a&gt;.</description>
+    <description>I like bagels. Probably too much. I'm also a husband, dad, and developer. </description>
     <link>https://andymitchhank.com/</link>
-    <pubDate>Wed, 25 Jul 2018 08:53:01 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Jul 2018 08:53:01 -0500</lastBuildDate>
+    <pubDate>Tue, 07 Aug 2018 22:31:45 -0500</pubDate>
+    <lastBuildDate>Tue, 07 Aug 2018 22:31:45 -0500</lastBuildDate>
 	<itunes:image href="https://micro.blog/andymitchhank/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
 	</itunes:category>
 	<itunes:author>Andrew Henry</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Andrew Henry</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
 	<language>en</language>
+    
+		
     
 		
     
