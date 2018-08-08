@@ -7,3 +7,33 @@ body {
 a[href="/about/"] {
 	display: none; 
 }
+
+footer.footer {
+  display: none;
+}
+
+footer {
+	padding-top: 50px;
+  	padding-bottom: 10px;
+}
+
+footer > section#webring {
+	text-align: center; 
+}
+
+footer > section#links > ul {
+	text-align: center;
+}
+
+footer > section#links > ul > li {
+	margin-left: 20px;
+  	display: inline-block;
+}
+
+a {
+	text-decoration: none 
+}
+
+figure.avatar img {
+  border-radius: 50%;
+}
